@@ -2,7 +2,7 @@
 Use of basic statistics principles to investigate Fandango's response to inflated movie ratings
 
 ## Getting Started
-This repository contains a jupyter notebook of the code to execute this project as well as the .csv files required to run the notebook.
+This repository contains a jupyter notebook of the code to execute this project as well as the .csv files required to run the notebook and two .png files. The inflated_rating.png image was taken from the project notes and the comparison.png file was generated and saved from the code in the jupyter notebook. 
 
 ## Project Information
 This guided project was completed at the end of a 'Statistics Fundamentals' [course](https://www.dataquest.io/course/statistics-fundamentals/) on Dataquest.io. Some of the steps followed in this project were guided but the analysis and conclusions are my own work. 
